@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@500&display=swap');
+
+
+
+body{
+    background-color: #F5FAFA!important;
+}
+
+@media only screen and (max-width: 360px) {
+  body {
+    background-color: white!important;
+  }
+}
+
+
+#title{
+    position: relative;
+    top: 15px;
+}
+
+
+
+
+#endContract{
+    font-family: 'Vollkorn', serif;
+    padding-top: 20px;
+}
+
+
+.freelancer_info{
+    width: 100%;
+    background: white;
+    position: relative;
+/*    right: 2%;*/
+}
+
+.freelancer_info #freelancer_title{
+    padding-top: 20px;
+    padding-left: 5%;
+    font-family: 'Vollkorn', serif;
+}
+
+.freelancer_info #freelancer_name{
+    padding-left: 5%;
+    font-family: 'Vollkorn', serif;
+}
+
+
+.freelancer_info #contract_title{
+    padding-left: 5%;
+    font-family: 'Vollkorn', serif;
+}
+
+.freelancer_info #service_name{
+    padding-left: 5%;
+    padding-bottom: 15px;
+    font-family: 'Vollkorn', serif;
+}
+
+
+#feedback_info{
+    background: white;
+    font-family: 'Vollkorn', serif;
+}
+
+.feedback_desctiption{
+    position: relative;
+    left: 5%;
+    top: 20px;
+}
+
+#feedback_freelancer{
+    position: relative;
+    left: 5%;
+    top: 10px;
+}
+
+
+/*styling input form*/
+
+
+
+#skill_header,#availability_header, #communication_header, #cooperation_header{
+    position: relative;
+    left: 10%;
+    top: 15px;
+}
+
+
+#skill, #quality_work, #cooperation, #communication, #availability{
+    margin-top: 5px;
+/*    margin-left: 65px;*/
+    margin-left: 15%;
+}
+
+#skill_quality_bad{
+    position: relative;
+    top: 9px;
+}
+
+#skill_quality_good{
+    position: relative;
+    top: 9px;
+}
+
+
+#skill_btn1,#skill_btn2,#skill_btn3,#skill_btn4,#skill_btn5{
+/*
+    width: 50px;
+    height: 50px;
+*/
+    background: none;
+    font-size: 25px;
+    color: black;
+    outline: none;
+    box-shadow: none !important;
+}
+
+
+
+#share_community{
+    position: relative;
+    left: 10%;
+    top: 25px;
+}
+
+#share_experience{
+    width: 70%;
+    height: 100px;
+    margin-top: 35px;
+    margin-left: 10%;
+    margin-bottom: 25px;
+}
+
+#end_contract{
+    width: 140px;
+    height: 40px;
+    background:#3399CC;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    outline: none;
+    position: relative;
+    left: 10%;
+    bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
